@@ -11,4 +11,5 @@ Recursos
 
 Objetivo
 Promover a identidade digital da InfoTech RJ e facilitar o contato com clientes e parceiros por meio de uma presença web profissional e eficiente.
+
 Site desenvolvido por Gabriel Moreira, Juan Wiliam, Natanael Bastos, Gustavo de Jesus, Renildo Samuel, Aquílles Soares e Kauã.
